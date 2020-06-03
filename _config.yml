@@ -1,8 +1,8 @@
 # site settings
 title: Ravi Bhandia
 subtitle: Portfolio
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: ravi@bhandia.com
+description: Hi! I'm Ravi. Welcome to my website! I'm a californian born and raised (never lived anywhere else). I'm passionate about the environment, education equality, and finance. I recently graduated from UC Berkeley with a Masters in Operations Research where I had the opportunity to learn and practice data science and product skills. I completed my bachelors at USC in Chemical Engineering with a minor in Business Finance. Here are a selection of projects that I would like to share with you! 
 baseurl: ""
 url: "https://ravibhandia.github.io" # the base hostname & protocol for your site
 author:
